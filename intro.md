@@ -1,26 +1,80 @@
 # 🏙️ Welcome to Urban AI
 
-欢迎来到Urban AI项目！这是一个专注于城市人工智能应用的知识库，包含了智能城市规划、数据分析和AI技术在城市发展中的应用。
+Welcome to the Urban AI project! This is a comprehensive knowledge base focused on urban artificial intelligence applications, covering intelligent city planning, data analysis, and AI technology applications in urban development.
 
-## 🎯 项目目标
+## 🎯 Project Goals
 
-Urban AI致力于：
+Urban AI is dedicated to:
 
-- **智能城市规划**：运用AI技术优化城市布局和发展策略
-- **数据驱动决策**：基于城市大数据进行科学分析和预测
-- **可持续发展**：平衡城市发展与环境保护
-- **技术创新**：探索AI在城市管理中的前沿应用
+- **Intelligent Urban Planning**: Utilizing AI technology to optimize urban layout and development strategies
+- **Data-Driven Decision Making**: Scientific analysis and prediction based on urban big data
+- **Sustainable Development**: Balancing urban development with environmental protection
+- **Technological Innovation**: Exploring cutting-edge applications of AI in urban management
 
-## 📚 内容概览
+## 📚 Content Overview
 
-本项目包含：
+This project is structured into comprehensive learning modules:
 
-- **📊 基础示例**：Urban AI入门教程和基本概念
-- **📈 数据分析**：城市数据的深度分析和可视化
-- **🤖 AI模型**：机器学习在城市规划中的应用
-- **🌿 案例研究**：真实的智能城市项目分析
+### 🔧 0. Programming & ML Foundation
+- **Python Fundamentals**: Data types, control structures, functions, classes
+- **Scientific Computing**: NumPy, Pandas, Matplotlib, Seaborn
+- **Machine Learning Basics**: Regression, classification, clustering, model evaluation
+- **PyTorch Introduction**: Tensors, datasets, model training
+- **Deep Learning Fundamentals**: Neural networks, optimization, backpropagation
 
-探索下面的章节，开始你的Urban AI之旅！
+### 🏙️ 1. Urban Issues Identification
+- Urban heat islands and thermal comfort
+- Urban accessibility and connectivity
+- Urban perception and cognitive mapping
+- Spatial equity and urban inequality
+- Sustainability and green cities
+- Vitality and functional diversity
 
-```{tableofcontents}
-```
+### 🗺️ 2. Geospatial Data Foundation
+- **Vector Data**: OSM, GeoJSON, Shapefiles
+- **Raster Data**: Remote sensing imagery, DEM, thermal imaging
+- **Street View Images**: Google SVI, Mapillary
+- **Spatial Networks**: Street networks, accessibility graphs
+- **Geocoding & Coordinate Systems**: WGS84, EPSG
+- **Social Media Geodata**: Weibo, Instagram location data
+
+### 🤖 3. AI Techniques
+- **Image Models**: CNN, ViT, Swin Transformer
+- **Graph Neural Networks**: GNN, GAT, GraphSAGE
+- **Spatiotemporal Models**: LSTM, ST-GCN, Transformer
+- **Generative Models**: VAE, GAN, Diffusion models
+- **Large Language Models**: LLM + geographical reasoning
+- **Bayesian Models**: BNN, Deep Ensemble for uncertainty
+
+### 📊 4. Spatial Analytics Methods
+- **Spatial Autocorrelation**: Moran's I, LISA, Getis-Ord
+- **Spatial Regression**: OLS, GWR, MGWR, Spatial Lag/Error
+- **Network Analysis**: Shortest path, centrality, integration
+- **Multi-scale Analysis**: MAUP, grid effects, scale-aware modeling
+- **Spatial Optimization**: QUBO, Ising, genetic algorithms
+
+### 🛠️ 5. Tools & Platforms
+- **GIS Software**: QGIS, ArcGIS, Kepler.gl
+- **Remote Sensing**: Google Earth Engine, SentinelHub
+- **Street View Tools**: SP-Survey, Mapillary API, Google API
+- **Programming**: Python, PyTorch, GeoPandas, Rasterio, NetworkX
+- **Visualization**: Folium, Leaflet, Plotly, Mapbox
+- **Urban Data Platforms**: OpenStreetMap, GADM, WorldPop, Copernicus
+
+### 🌆 6. UrbanAI Applications
+- **Urban Thermal Environment**: UHI mapping, thermal comfort index
+- **Urban Comfort Modeling**: VATA, SSAC, image-to-score mapping
+- **Transportation Optimization**: Accessibility surfaces, catchment modeling
+- **Urban Cognitive Mapping**: Cognitive map reconstruction from SVI
+- **Social Spatial Behavior**: Geo-located mobility, social sensing
+- **Public Space Design**: Green space, safety, and aesthetic modeling
+
+### 🚀 7. Advanced Topics & Frontiers
+- **Spatial Foundation Models**: Geospatial foundation models, MMGeoCity
+- **Urban Cognitive Computing**: Neuromorphic vision + SNN
+- **Brain-inspired Urban Modeling**: SNN + GNN + Transformer
+- **Language-Spatial Reasoning**: GeoLLM, GeoLangBench, OSM-RAG
+- **Multimodal Perception**: Image + text + coordinates + behavior
+- **Reinforcement Learning**: RL for urban planning, spatial RL
+
+Start your Urban AI journey by exploring the chapters below!
