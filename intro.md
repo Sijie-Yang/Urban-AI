@@ -1,18 +1,26 @@
-# Welcome to My Jupyter Book
+# 🏙️ Welcome to Urban AI
 
-This is a small sample book to give you a feel for how book content is structured.
-It shows off a few of the major file types, as well as some sample content.
-It does not go in-depth into any particular topic - check out [the Jupyter Book documentation](https://jupyterbook.org) for more information.
+欢迎来到Urban AI项目！这是一个专注于城市人工智能应用的知识库，包含了智能城市规划、数据分析和AI技术在城市发展中的应用。
 
-## What you'll find in this book
+## 🎯 项目目标
 
-This book contains:
+Urban AI致力于：
 
-- A collection of Jupyter notebooks with data analysis and examples
-- Interactive plots and visualizations
-- Code examples and explanations
+- **智能城市规划**：运用AI技术优化城市布局和发展策略
+- **数据驱动决策**：基于城市大数据进行科学分析和预测
+- **可持续发展**：平衡城市发展与环境保护
+- **技术创新**：探索AI在城市管理中的前沿应用
 
-Check out the content pages bundled with this sample book to see more.
+## 📚 内容概览
+
+本项目包含：
+
+- **📊 基础示例**：Urban AI入门教程和基本概念
+- **📈 数据分析**：城市数据的深度分析和可视化
+- **🤖 AI模型**：机器学习在城市规划中的应用
+- **🌿 案例研究**：真实的智能城市项目分析
+
+探索下面的章节，开始你的Urban AI之旅！
 
 ```{tableofcontents}
 ```

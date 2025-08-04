@@ -3,6 +3,18 @@
 
 format: jb-book
 root: intro
-chapters:
-- file: notebooks/example-notebook
-- file: notebooks/analysis
+parts:
+- caption: 📖 项目概览
+  chapters:
+  - file: about
+    title: 🏛️ 关于项目
+  - file: methodology  
+    title: 🔬 方法论与技术栈
+
+- caption: 📊 实践应用
+  chapters:
+  - file: case-studies
+    title: 📋 案例研究
+  - file: future-vision
+    title: 🔮 未来愿景
+
