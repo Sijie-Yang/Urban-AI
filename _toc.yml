@@ -5,6 +5,6 @@ format: jb-book
 root: intro
 chapters:
 - file: notebooks/example-notebook
-  title: Example Notebook
+  title: 📊 Example Notebook
 - file: notebooks/analysis
-  title: Data Analysis
+  title: 📈 Data Analysis
