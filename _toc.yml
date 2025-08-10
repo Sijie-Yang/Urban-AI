@@ -15,119 +15,52 @@ parts:
   - file: future-vision
     title: 🔮 Future Vision
 
-- caption: 🔧 0. Programming & ML Foundation
+- caption: 🔧 Part I. Python & ML Fundamentals
   chapters:
-  - file: notebooks/0-1-python-fundamentals
+  - file: notebooks/Part I python-ML-fundamental/1 - python-fundamentals
     title: Python Fundamentals
-  - file: notebooks/0-2-scientific-computing
-    title: Scientific Computing
-  - file: notebooks/0-3-ml-basics
-    title: Machine Learning Basics
-  - file: notebooks/0-4-pytorch-intro
-    title: PyTorch Introduction
-  - file: notebooks/0-5-deep-learning
-    title: Deep Learning Fundamentals
 
-- caption: 🏙️ 1. Urban Issues Identification
+- caption: 🧠 Part II. Deep Learning
+  chapters:
+  - file: notebooks/Part II deep-learning/1 - Introduction
+    title: Introduction
+  - file: notebooks/Part II deep-learning/2 - Prerequisite Knowledge
+    title: Prerequisite Knowledge
+  - file: notebooks/Part II deep-learning/3 - Linear Neural Networks
+    title: Linear Neural Networks
+
+- caption: 🏙️ 3. Urban Issues Identification
   chapters:
   - file: notebooks/1-1-urban-heat-islands
     title: Urban Heat Islands
-  - file: notebooks/1-2-accessibility-connectivity
-    title: Accessibility & Connectivity
-  - file: notebooks/1-3-urban-perception
-    title: Urban Perception
-  - file: notebooks/1-4-spatial-equity
-    title: Spatial Equity
-  - file: notebooks/1-5-sustainability
-    title: Sustainability & Green Cities
-  - file: notebooks/1-6-urban-vitality
-    title: Vitality & Functional Diversity
 
-- caption: 🗺️ 2. Geospatial Data Foundation
+- caption: 🗺️ 4. Geospatial Data Foundation
   chapters:
   - file: notebooks/2-1-vector-data
     title: Vector Data (OSM, GeoJSON)
-  - file: notebooks/2-2-raster-data
-    title: Raster Data (Remote Sensing)
-  - file: notebooks/2-3-street-view
-    title: Street View Images
-  - file: notebooks/2-4-spatial-networks
-    title: Spatial Networks
-  - file: notebooks/2-5-geocoding
-    title: Geocoding & Coordinate Systems
-  - file: notebooks/2-6-social-media-data
-    title: Social Media Geodata
 
-- caption: 🤖 3. AI Techniques
+- caption: 🤖 5. AI Techniques
   chapters:
   - file: notebooks/3-1-image-models
     title: Image Models (CNN, ViT)
-  - file: notebooks/3-2-graph-neural-networks
-    title: Graph Neural Networks
-  - file: notebooks/3-3-spatiotemporal-models
-    title: Spatiotemporal Models
-  - file: notebooks/3-4-generative-models
-    title: Generative Models
-  - file: notebooks/3-5-llm-geography
-    title: LLM + Geographical Reasoning
-  - file: notebooks/3-6-bayesian-models
-    title: Bayesian Models
 
-- caption: 📊 4. Spatial Analytics Methods
+- caption: 📊 6. Spatial Analytics Methods
   chapters:
   - file: notebooks/4-1-spatial-autocorrelation
     title: Spatial Autocorrelation
-  - file: notebooks/4-2-spatial-regression
-    title: Spatial Regression
-  - file: notebooks/4-3-network-analysis
-    title: Network Analysis
-  - file: notebooks/4-4-multiscale-analysis
-    title: Multi-scale Analysis
-  - file: notebooks/4-5-spatial-optimization
-    title: Spatial Optimization
 
-- caption: 🛠️ 5. Tools & Platforms
+- caption: 🛠️ 7. Tools & Platforms
   chapters:
   - file: notebooks/5-1-gis-software
     title: GIS Software
-  - file: notebooks/5-2-remote-sensing-tools
-    title: Remote Sensing Tools
-  - file: notebooks/5-3-street-view-tools
-    title: Street View Tools
-  - file: notebooks/5-4-programming-stack
-    title: Programming Stack
-  - file: notebooks/5-5-visualization
-    title: Visualization Tools
-  - file: notebooks/5-6-data-platforms
-    title: Urban Data Platforms
 
-- caption: 🌆 6. UrbanAI Applications
+- caption: 🌆 8. UrbanAI Applications
   chapters:
   - file: notebooks/6-1-thermal-environment
     title: Urban Thermal Environment
-  - file: notebooks/6-2-comfort-modeling
-    title: Urban Comfort Modeling
-  - file: notebooks/6-3-transportation
-    title: Transportation Optimization
-  - file: notebooks/6-4-cognitive-mapping
-    title: Urban Cognitive Mapping
-  - file: notebooks/6-5-social-behavior
-    title: Social Spatial Behavior
-  - file: notebooks/6-6-public-space
-    title: Public Space Design
 
-- caption: 🚀 7. Advanced Topics & Frontiers
+- caption: 🚀 9. Advanced Topics & Frontiers
   chapters:
   - file: notebooks/7-1-foundation-models
     title: Spatial Foundation Models
-  - file: notebooks/7-2-cognitive-computing
-    title: Urban Cognitive Computing
-  - file: notebooks/7-3-brain-inspired
-    title: Brain-inspired Urban Modeling
-  - file: notebooks/7-4-language-spatial
-    title: Language-Spatial Reasoning
-  - file: notebooks/7-5-multimodal-perception
-    title: Multimodal Perception
-  - file: notebooks/7-6-reinforcement-learning
-    title: Reinforcement Learning
 
